@@ -1,0 +1,24 @@
+body {
+    background-color: lightgreen;
+  }
+
+p{
+    text-align: center;
+    color: red;
+    font-size:xx-large;
+}
+
+#myGame{
+    text-align: center;
+    align:center;
+    background-color: aquamarine;
+    width: 150px
+}
+
+.option{
+    color: red;
+}
+
+.div{
+    align:centre;
+}
